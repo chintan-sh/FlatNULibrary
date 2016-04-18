@@ -111,7 +111,6 @@ $(document).ready(function(){
     });
 
     $('.signupBtn').click(function(){
-        console.log("Is there anybody out there *comfortabluy numb starts*");
         var name = $("#signupName").val();
         var username = $("#signupUsername").val();
         var password = $("#signupPassword").val();
@@ -141,7 +140,6 @@ $(document).ready(function(){
 
     /*Check if user is logged in*/
     $(document.body).on("click",'.getBook',function(){
-        console.log("Bulawa aaya hain");
         var status = sessionStorage.loginStatus;
         var lastSearch = $(this).parent().prev().find('#bookDetailID').text();
         //console.log("This is the book Id found " + lastSearch + "and the object is " + $(this).parent().prev().find('#bookDetailID').attr("class"));
@@ -1014,18 +1012,6 @@ function logout(){
   <script type="text/javascript" src="js/slick-1.5.9/slick/slick.min.js"></script>
   <script>
       $(function() {
-        /*$('#slides').slidesjs({
-          width: 800,
-          height: 450,
-          navigation: false,
-          play:{
-            auto : true,
-            effect : "fade",
-            interval : 5000,
-          }
-        });*/
-
-
         $('#bookSlides').slick({
             slidesToShow: 3,
             slidesToScroll: 1,
