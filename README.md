@@ -6,7 +6,7 @@ Reimagined version of Northeastern's library portal, adhering to contemporary de
 ![alt tag](http://chintansh.com/img/portfolio/w1p1.png)
 
 ---
-## Stream podcasts and lectures
+## Reserve study rooms or printing studios
 ![alt tag](http://chintansh.com/img/portfolio/w1p2.png)
 
 ---
