@@ -3,12 +3,12 @@ Reimagined version of Northeastern's library portal, adhering to contemporary de
 
 ---
 ## Search Catalog
-![alt tag](http://chintansh.com/img/portfolio/w1p1.png)
+![alt tag](http://52.73.80.195/img/portfolio/w1p1.png)
 
 ---
 ## Reserve study rooms or printing studios
-![alt tag](http://chintansh.com/img/portfolio/w1p2.png)
+![alt tag](http://52.73.80.195/img/portfolio/w1p2.png)
 
 ---
 ## Reserve books online
-![alt tag](http://chintansh.com/img/portfolio/w1p3.png)
+![alt tag](http://52.73.80.195/img/portfolio/w1p3.png)
