@@ -1,4 +1,4 @@
-# Northeastern University Library 2.0
+# FlatNU
 Flat design rendition of @NEU-Libraries portal, with updated design language and faster search queries. 
 
 
